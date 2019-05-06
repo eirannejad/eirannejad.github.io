@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ein.sh</title>
-    <link>/</link>
-    <description>Recent content on ein.sh</description>
+    <title>untagged on ein.sh</title>
+    <link>/tags/untagged/</link>
+    <description>Recent content in untagged on ein.sh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ehsan Iran-Nejad</copyright>
     <lastBuildDate>Sat, 27 Apr 2019 18:17:07 -0700</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

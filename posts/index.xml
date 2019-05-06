@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on ein.sh</title>
+        <link>/posts/</link>
+        <description>Recent content in Posts on ein.sh</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Ehsan Iran-Nejad</copyright>
+        <lastBuildDate>Sat, 27 Apr 2019 18:17:07 -0700</lastBuildDate>
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Hey 👋</title>
+            <link>/posts/first/</link>
+            <pubDate>Sat, 27 Apr 2019 18:17:07 -0700</pubDate>
+            
+            <guid>/posts/first/</guid>
+            <description>This is my personal blog. Powered by Github Pages, Hugo, with Hello-Friend-NG theme. I have placed a few profile links on the home page if you&amp;rsquo;d like to know more about me.</description>
+            <content type="html"><![CDATA[<p>This is my personal blog. Powered by <a href="https://github.com/eirannejad/eirannejad.github.io">Github Pages</a>, <a href="https://gohugo.io">Hugo</a>, with <a href="https://themes.gohugo.io/hugo-theme-hello-friend-ng/">Hello-Friend-NG</a> theme. I have placed a few profile links on the home page if you&rsquo;d like to know more about me.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
