@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ein.sh</title>
-    <link>/</link>
-    <description>Recent content on ein.sh</description>
+    <title>self on ein.sh</title>
+    <link>/tags/self/</link>
+    <description>Recent content in self on ein.sh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ehsan Iran-Nejad</copyright>
     <lastBuildDate>Wed, 22 Apr 2020 09:03:41 -0700</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/self/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <guid>/posts/april-2020/</guid>
       <description>I wish I could see myself from outside of this body; as a third observer. A lot of times I think I&amp;rsquo;m right. But the reactions I get, tell a different story. I care so much about things that aren&amp;rsquo;t that important to others. I think the survival formula that I follow has different constants applied, compared to the norm. Most probably it has a deep psychological reason.
 May it would be better if I could attach a debugger to myself.</description>
-    </item>
-    
-    <item>
-      <title>Hey 👋</title>
-      <link>/posts/first/</link>
-      <pubDate>Sat, 27 Apr 2019 18:17:07 -0700</pubDate>
-      
-      <guid>/posts/first/</guid>
-      <description>This is my personal blog. Powered by Github Pages, Hugo, with Hello-Friend-NG theme. I have placed a few profile links on the home page if you&amp;rsquo;d like to know more about me.</description>
     </item>
     
   </channel>

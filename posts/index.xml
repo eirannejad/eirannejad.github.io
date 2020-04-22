@@ -6,8 +6,21 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Ehsan Iran-Nejad</copyright>
-        <lastBuildDate>Sat, 27 Apr 2019 18:17:07 -0700</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2020 09:03:41 -0700</lastBuildDate>
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Debug Me</title>
+            <link>/posts/april-2020/</link>
+            <pubDate>Wed, 22 Apr 2020 09:03:41 -0700</pubDate>
+            
+            <guid>/posts/april-2020/</guid>
+            <description>I wish I could see myself from outside of this body; as a third observer. A lot of times I think I&amp;rsquo;m right. But the reactions I get, tell a different story. I care so much about things that aren&amp;rsquo;t that important to others. I think the survival formula that I follow has different constants applied, compared to the norm. Most probably it has a deep psychological reason.
+May it would be better if I could attach a debugger to myself.</description>
+            <content type="html"><![CDATA[<p>I wish I could see myself from outside of this body; as a third observer. A lot of times I think I&rsquo;m right. But the reactions I get, tell a different story. I care so much about things that aren&rsquo;t that important to others. I think the survival formula that I follow has different constants applied, compared to the norm. Most probably it has a deep psychological reason.</p>
+<p>May it would be better if I could attach a debugger to myself. Maybe even a serial TTY would be enough so I can see the log messages spitted out from my brain. I would spend the rest of my days figuring out why I think or react the way I do.</p>
+]]></content>
+        </item>
         
         <item>
             <title>Hey 👋</title>
