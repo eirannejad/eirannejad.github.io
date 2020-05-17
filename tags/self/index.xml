@@ -7,18 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ehsan Iran-Nejad</copyright>
-    <lastBuildDate>Wed, 22 Apr 2020 09:03:41 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2020 12:45:54 -0700</lastBuildDate>
     
 	<atom:link href="/tags/self/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Debug Me</title>
-      <link>/posts/april-2020/</link>
-      <pubDate>Wed, 22 Apr 2020 09:03:41 -0700</pubDate>
+      <title>PS,LP,LB,FA</title>
+      <link>/posts/2020/05/</link>
+      <pubDate>Sun, 17 May 2020 12:45:54 -0700</pubDate>
       
-      <guid>/posts/april-2020/</guid>
-      <description>I wish I could see myself from outside of this body; as a third observer. A lot of times I think I&amp;rsquo;m right. But the reactions I get, tell a different story. I care so much about things that aren&amp;rsquo;t that important to others. I think the survival formula that I follow has different constants applied, compared to the norm. Most probably it has a deep psychological reason.
+      <guid>/posts/2020/05/</guid>
+      <description>You feel pain. It is not physical. Physical pain is easy. It is external. You cut the cords; it frees you from the pain and lets you focus on the fix. Psychological pain is different. It is internal. There are no cords to cut.
+The pain is from a fire inside you. When it is consistently fed stuff to burn, it is ok. But when it runs out of fuel, it starts burning You.</description>
+    </item>
+    
+    <item>
+      <title>Debug Me</title>
+      <link>/posts/2020/04/</link>
+      <pubDate>Wed, 22 Apr 2020 09:03:00 -0700</pubDate>
+      
+      <guid>/posts/2020/04/</guid>
+      <description>I wish I could see myself from outside of this body; as a third observer. A lot of times I think I’m right. But the reactions I get, tell a different story. I care so much about things that aren’t that important to others. I think the survival formula that I follow has different constants applied, compared to the norm. Most probably it has a deep psychological reason.
 Maybe it would be better if I could attach a debugger to myself.</description>
     </item>
     
