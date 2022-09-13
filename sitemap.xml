@@ -1,49 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>/posts/2022/06/</loc>
+    <lastmod>2022-09-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/</loc>
-    <lastmod>2020-05-17T12:45:54-07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-09-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/posts/</loc>
-    <lastmod>2020-05-17T12:45:54-07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/self/</loc>
+    <lastmod>2022-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-09-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/posts/2020/05/</loc>
     <lastmod>2020-05-17T12:45:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/self/</loc>
-    <lastmod>2020-05-17T12:45:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-05-17T12:45:54-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2020/04/</loc>
     <lastmod>2020-04-22T09:03:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/first/</loc>
     <lastmod>2019-04-27T18:17:07-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/untagged/</loc>
     <lastmod>2019-04-27T18:17:07-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
   </url>
-  
 </urlset>
