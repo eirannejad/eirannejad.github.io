@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/ein/gits/einhome",
+	"sourceRoot": "/Users/ein/gits/ein.sh",
 	"sources": [
 		"assets/scss/main.scss",
 		"assets/scss/_normalize.scss",

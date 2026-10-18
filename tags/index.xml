@@ -1,30 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on ein.sh</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on ein.sh</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Ehsan Iran-Nejad</copyright>
-    <lastBuildDate>Tue, 13 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>self</title>
-      <link>/tags/self/</link>
-      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/self/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>untagged</title>
-      <link>/tags/untagged/</link>
-      <pubDate>Sat, 27 Apr 2019 18:17:07 -0700</pubDate>
-      
-      <guid>/tags/untagged/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Tags on ein.sh</title>
+		<link>/tags/</link>
+		<description>Recent content in Tags on ein.sh</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>Ehsan Iran-Nejad</copyright>
+		
+		
+			<lastBuildDate>Tue, 29 Sep 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Self</title>
+				<link>/tags/self/</link>
+				<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>/tags/self/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Untagged</title>
+				<link>/tags/untagged/</link>
+				<pubDate>Sat, 27 Apr 2019 18:17:07 -0700</pubDate>
+				<guid>/tags/untagged/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

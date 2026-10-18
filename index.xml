@@ -1,50 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ein.sh</title>
-    <link>/</link>
-    <description>Recent content on ein.sh</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Ehsan Iran-Nejad</copyright>
-    <lastBuildDate>Tue, 13 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blast Off</title>
-      <link>/posts/2022/06/</link>
-      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2022/06/</guid>
-      <description>I am not liked, and not very popular among most human beings. I wish I could take my backpack and books and blast off to another planet; Keeping to search, to love, to laugh, to learn, to explore, etc.</description>
-    </item>
-    
-    <item>
-      <title>PS,LP,LB,FA</title>
-      <link>/posts/2020/05/</link>
-      <pubDate>Sun, 17 May 2020 12:45:54 -0700</pubDate>
-      
-      <guid>/posts/2020/05/</guid>
-      <description>You feel pain. It is not physical. Physical pain is easy. It is external. You cut the cords; it frees you from the pain and lets you focus on the fix. Psychological pain is different. It is internal. There are no cords to cut.
-The pain is from a fire inside you. When it is consistently fed stuff to burn, it is ok. But when it runs out of fuel, it starts burning You.</description>
-    </item>
-    
-    <item>
-      <title>Debug Me</title>
-      <link>/posts/2020/04/</link>
-      <pubDate>Wed, 22 Apr 2020 09:03:00 -0700</pubDate>
-      
-      <guid>/posts/2020/04/</guid>
-      <description>I wish I could see myself from outside of this body; as a third observer. A lot of times I think I’m right. But the reactions I get, tell a different story. I care so much about things that aren’t that important to others. I think the survival formula that I follow has different constants applied, compared to the norm. Most probably it has a deep psychological reason.
-Maybe it would be better if I could attach a debugger to myself.</description>
-    </item>
-    
-    <item>
-      <title>Hey 👋</title>
-      <link>/posts/first/</link>
-      <pubDate>Sat, 27 Apr 2019 18:17:07 -0700</pubDate>
-      
-      <guid>/posts/first/</guid>
-      <description>This is my personal blog. Powered by Github Pages, Hugo, with Hello-Friend-NG theme. I have placed a few profile links on the home page if you&amp;rsquo;d like to know more about me.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>ein.sh</title>
+		<link>/</link>
+		<description>Recent content on ein.sh</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>Ehsan Iran-Nejad</copyright>
+		
+		
+			<lastBuildDate>Tue, 29 Sep 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Eulogy</title>
+				<link>/posts/2026/09/</link>
+				<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>/posts/2026/09/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;I knew Ehsan for all of 45 McYears. He was a man who stood taller than those around him with his decency and kindness. If, as Sir Isaac Newton suggested, we stand on the shoulders of giants, were we to stand on his mans shoulders, we could see the stars he is now a part of without a space ship.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;C. Sykes&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Blast Off</title>
+				<link>/posts/2022/09/</link>
+				<pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+				<guid>/posts/2022/09/</guid>
+				<description>&lt;p&gt;I am not liked, and not very popular among most human beings. I wish I could take my backpack and books and blast off to another planet; Keeping to search, to love, to laugh, to learn, to explore, etc.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/blast-off-with-books.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>PS,LP,LB,FA</title>
+				<link>/posts/2020/05/</link>
+				<pubDate>Sun, 17 May 2020 12:45:54 -0700</pubDate>
+				<guid>/posts/2020/05/</guid>
+				<description>&lt;p&gt;You feel pain. It is not physical. Physical pain is easy. It is external. You cut the cords; it frees you from the pain and lets you focus on the fix. Psychological pain is different. It is internal. There are no cords to cut.&lt;/p&gt;&#xA;&lt;p&gt;The pain is from a fire inside you. When it is consistently fed stuff to burn, it is ok. But when it runs out of fuel, it starts burning You.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Debug Me</title>
+				<link>/posts/2020/04/</link>
+				<pubDate>Wed, 22 Apr 2020 09:03:00 -0700</pubDate>
+				<guid>/posts/2020/04/</guid>
+				<description>&lt;p&gt;I wish I could see myself from outside of this body; as a third observer. A lot of times I think I’m right. But the reactions I get, tell a different story. I care so much about things that aren’t that important to others. I think the survival formula that I follow has different constants applied, compared to the norm. Most probably it has a deep psychological reason.&lt;/p&gt;&#xA;&lt;p&gt;Maybe it would be better if I could attach a debugger to myself. Maybe even a serial TTY would be enough so I can see the log messages spitted out from my brain. I would spend the rest of my days figuring out why I think or react the way I do.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Hey 👋</title>
+				<link>/posts/first/</link>
+				<pubDate>Sat, 27 Apr 2019 18:17:07 -0700</pubDate>
+				<guid>/posts/first/</guid>
+				<description>&lt;p&gt;This is my personal blog. Powered by &lt;a href=&#34;https://github.com/eirannejad/eirannejad.github.io&#34;&gt;Github Pages&lt;/a&gt;, &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, with &lt;a href=&#34;https://themes.gohugo.io/hugo-theme-hello-friend-ng/&#34;&gt;Hello-Friend-NG&lt;/a&gt; theme. I have placed a few profile links on the home page if you&amp;rsquo;d like to know more about me.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
