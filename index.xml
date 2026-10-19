@@ -50,5 +50,12 @@
 				<guid>/posts/first/</guid>
 				<description>&lt;p&gt;This is my personal blog. Powered by &lt;a href=&#34;https://github.com/eirannejad/eirannejad.github.io&#34;&gt;Github Pages&lt;/a&gt;, &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, with &lt;a href=&#34;https://themes.gohugo.io/hugo-theme-hello-friend-ng/&#34;&gt;Hello-Friend-NG&lt;/a&gt; theme. I have placed a few profile links on the home page if you&amp;rsquo;d like to know more about me.&lt;/p&gt;</description>
 			</item>
+			<item>
+				<title>help</title>
+				<link>/help/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/help/</guid>
+				<description>&lt;p&gt;Start typing anywhere on the site to use the prompt at the top. &lt;strong&gt;Tab&lt;/strong&gt; completes, &lt;strong&gt;Enter&lt;/strong&gt; goes, &lt;strong&gt;Esc&lt;/strong&gt; clears.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>
