@@ -12,9 +12,16 @@
 			<copyright>Ehsan Iran-Nejad</copyright>
 		
 		
-			<lastBuildDate>Tue, 29 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sun, 25 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>No Tools for This</title>
+				<link>/posts/2026/10/</link>
+				<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>/posts/2026/10/</guid>
+				<description>&lt;h2 id=&#34;stagnant&#34;&gt;Stagnant&lt;/h2&gt;&#xA;&lt;p&gt;I feel stagnant. My entire life has always been in pursuit of something: challenging myself in various technical or creative fields, albeit never mastering any. I have worked with physical tools since childhood, later studying architecture, working in graphic design, collaborating on electronic projects with a friend, then moving to America, relearning architecture with a focus on sustainability, then photography, electronic music, and programming again, first creating free tools for others and later working on one of the most popular software packages in the world. I haven&amp;rsquo;t quite figured out what the driver has been, but I like to think it is curiosity, and not the desire to be worthy of others&amp;rsquo; attention or love.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Eulogy</title>
 				<link>/posts/2026/09/</link>
